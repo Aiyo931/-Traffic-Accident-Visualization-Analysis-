@@ -62,14 +62,7 @@ The dataset is sourced from local traffic authorities or public open datasets.
 
 ---
 
-## 📌 结果展示 | Sample Visualization
-
-（可截图放一张你 notebook 中的可视化图表）
 
 ---
 
-## 📬 联系方式 | Contact
 
-如果你对本项目有任何问题或建议，请联系我：
-
-- GitHub: [your_username](https://github.com/your_username)
